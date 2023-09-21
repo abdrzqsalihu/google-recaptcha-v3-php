@@ -29,10 +29,6 @@ This project demonstrates how to integrate Google reCAPTCHA v3 into a PHP web ap
 
 You can customize the reCAPTCHA configuration and appearance by referring to the [Google reCAPTCHA v3 documentation](https://developers.google.com/recaptcha/docs/display).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Google reCAPTCHA](https://www.google.com/recaptcha)
